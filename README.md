@@ -8,4 +8,6 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Investigar que es un lenguaje Turing completo. <br> Agregar bibliografía de donde se investigó |30 de agosto de 2016 |
 |Traducir el siguiente recurso hasta el tema de **Response Headers**, justo antes de **Request Methods** <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html) |2 de septiembre de 2016 |
 |Realizar los 19 problemas del taller de javascripting de nodeschool. Se debe incluir un commit por ejercicio realizado y deberan subirse aun repositorio de nombre NodeSchool-Solutions |8 de septiembre de 2016 |
+|Investigar y listar los principales protocolos de internet, cuales son sus funciones y en que puerto operan |13 de Septiembre de 2016 |
+| Traducir el siguiente recurso desde el tema de **Request Methods** hasta justo antes de **Submitting HTML Form Data and Query String** <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)|15 de Septiembre de 2016 |
 | | |
