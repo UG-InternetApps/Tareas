@@ -11,4 +11,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Investigar y listar los principales protocolos de internet, cuales son sus funciones y en que puerto operan |13 de Septiembre de 2016 |
 | Traducir el siguiente recurso desde el tema de **Request Methods** hasta justo antes de **Submitting HTML Form Data and Query String** <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)|15 de Septiembre de 2016 |
 | Traducir el siguiente recurso desde el tema de **Submitting HTML Form Data and Query String** hasta terminar <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)|22 de Septiembre de 2016 |
-| | |
+|Completar todos los ejercicios de learnyounode de la node school | 14 de Octubre de 2016 |
