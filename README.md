@@ -12,3 +12,6 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 | Traducir el siguiente recurso desde el tema de **Request Methods** hasta justo antes de **Submitting HTML Form Data and Query String** <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)|15 de Septiembre de 2016 |
 | Traducir el siguiente recurso desde el tema de **Submitting HTML Form Data and Query String** hasta terminar <br> [HTTP Basics](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)|22 de Septiembre de 2016 |
 |Completar todos los ejercicios de learnyounode de la node school | 14 de Octubre de 2016 |
+|Ver el siguiente video https://www.youtube.com/watch?v=8aGhZQkoFbQ y realizar un reporte con los conceptos que considerén clave| 25 de Octubre de 2016|
+|Crear una cuenta en https://www.heroku.com/|25 de Octubre de 2016|
+|Investigar  que es express y que ventajas tenemos al utilizarlo| 25 de Octubre de 2016|
