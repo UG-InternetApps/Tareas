@@ -15,3 +15,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Ver el siguiente video https://www.youtube.com/watch?v=8aGhZQkoFbQ y realizar un reporte con los conceptos que considerén clave| 25 de Octubre de 2016|
 |Crear una cuenta en https://www.heroku.com/|25 de Octubre de 2016|
 |Investigar  que es express js y que ventajas tenemos al utilizarlo| 25 de Octubre de 2016|
+|||
