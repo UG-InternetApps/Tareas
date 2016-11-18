@@ -17,3 +17,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Investigar  que es express js y que ventajas tenemos al utilizarlo| 25 de Octubre de 2016|
 |Agregar el endpoint /products/new con el formulario para agregar productos|14 de noviembre de 2016|
 |Darle estilo a la vista de productos|14 de noviembre de 2016|
+|Investigar que es una API RESTFUL y como se construye| 21 de noviembre de 2016|
